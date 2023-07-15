@@ -1,0 +1,3 @@
+fastapi
+tortoise-orm[asyncpg]
+uvicorn
