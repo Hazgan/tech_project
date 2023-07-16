@@ -1,3 +1,4 @@
 fastapi
-tortoise-orm[asyncpg]
+tortoise-orm
 uvicorn
+asyncpg
